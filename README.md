@@ -1,1 +1,2 @@
-# Code-refractor-
+Horiseon code refractor project.
+
