@@ -15,11 +15,8 @@ As you can see from the two screenshots below, you'll just need to enable a scre
 ![alt text](assets/images/selection.png)
 
 
-
-Credits
-List your collaborators, if any, with links to their GitHub profiles.
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-If you followed tutorials, include links to those here as well.
+## Credits
+To the test the pictures caption I used Screen reader by Google: https://chrome.google.com/webstore/detail/screen-reader/kgejglhpjiefppelpmljglcjbhoiplfn
 
 License
 The last section of a good README is a license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, use https://choosealicense.com/
