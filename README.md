@@ -9,9 +9,10 @@ Installation is not needed as the modification have already been implemented.
 ## Usage
 It is possibile to easily scroll throught the page; otherwise it's possibile to click on one of the options in the navigation panel, and you'll be redirected to the interested parapgraph.
 Also, with any screenreader, you'll be able to click on any section of the page, and the content of it will be read out loud. 
-To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+As you can see from the two screenshots below, you'll just need to enable a screen reader extension, and then you'll just need to click on the section that you'd like to be read.
 
 ![alt text](assets/images/screen-reader.png)
+![alt text](assets/images/selection.png)
 
 
 
