@@ -1,10 +1,14 @@
 # Horiseon code refractor project.
 
-Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+##Description.
+In this project, I worked to make the Horiseon page more accessible to all the users. I added descriptions to the pictures, that I also tested with a screen reader extension. I also edited the code to add the semantics html, and I edited and removed several css lines to make the code easier to navigate.
 
-Usage
-Provide instructions and examples for use. Include screenshots as needed.
+##Installation
+Installation is not needed as the modification have already been implemented.
+
+##Usage
+It is possibile to easily scroll throught the page; otherwise it's possibile to click on one of the options in the navigation panel, and you'll be redirected to the interested parapgraph.
+Also, with any screenreader, you'll be able to click on any section of the page, and the content of it will be read out loud. 
 To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
 ![alt text](assets/images/screenshot.png)
